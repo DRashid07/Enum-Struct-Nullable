@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\bin\Debug\net8.0\Custom Exception.exe
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\bin\Debug\net8.0\Custom Exception.deps.json
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\bin\Debug\net8.0\Custom Exception.runtimeconfig.json
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\bin\Debug\net8.0\Custom Exception.dll
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\bin\Debug\net8.0\Custom Exception.pdb
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\Custom Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\Custom Exception.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\Custom Exception.AssemblyInfo.cs
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\Custom Exception.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\Custom Exception.sourcelink.json
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\Custom Exception.dll
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\refint\Custom Exception.dll
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\Custom Exception.pdb
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\Custom Exception.genruntimeconfig.cache
+C:\Users\User\Desktop\Enum Struct Nullable\Custom Exception\obj\Debug\net8.0\ref\Custom Exception.dll

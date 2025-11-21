@@ -2,7 +2,7 @@
 {
     public class Room
     {
-        private static int _idcounter=0;
+        public static int _idcounter=0;
         public int Id { get; }
         public string Name { get; set; }
         public double Price { get; set; }

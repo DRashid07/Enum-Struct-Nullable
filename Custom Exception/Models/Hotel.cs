@@ -5,10 +5,10 @@ namespace Custom_Exception.Models
     public class Hotel
     {
         public string Name { get; set; }
-        private Room[] _rooms;
-        public Hotel(string name) 
+        public Room[] _rooms;
+        public Hotel(string name)
         {
-            if (name == null)                     
+            if (name == null)
                 throw new ArgumentNullException("Ad bosh ola bilmez", nameof(name));
 
             Name = name;
@@ -21,8 +21,31 @@ namespace Custom_Exception.Models
             {
                 throw new ArgumentNullException("bosh ola bilmez", nameof(room));
             }
-            _rooms[0] = room;
+            Array.Resize(ref _rooms, _rooms.Length+1);
+            _rooms[_rooms.Length-1] = room;
         }
+        public void Reserve(int? roomId)
+        {
+            if (roomId == null) throw new ArgumentNullException();
 
+            Room found = null;
+            foreach (var room in _rooms)
+                if (room.Id == roomId)
+                    found = room;
+
+            if (found == null)
+                throw new NotFoundException($"Room {roomId} tapılmadı");
+
+            if (!found.IsAvailable)
+                throw new NotAvailableException($"Room {roomId} artıq rezerv olunub");
+
+            found.IsAvailable = false;
+
+        }
+        public Room this[int index]
+        {
+            get => _rooms[index];
+            set => _rooms[index] = value;
+        }
     }
 }

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E13EE342-ABD9-4B49-BBC6-E239ADD3AC0D}|Custom Exception\\Custom Exception.csproj|c:\\users\\user\\desktop\\enum struct nullable\\custom exception\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13EE342-ABD9-4B49-BBC6-E239ADD3AC0D}|Custom Exception\\Custom Exception.csproj|solutionrelative:custom exception\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12192AC2-76B4-4BF0-98EC-DC6FDA234F3C}|Weapon\\Weapon.csproj|c:\\users\\user\\desktop\\enum struct nullable\\weapon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12192AC2-76B4-4BF0-98EC-DC6FDA234F3C}|Weapon\\Weapon.csproj|solutionrelative:weapon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E13EE342-ABD9-4B49-BBC6-E239ADD3AC0D}|Custom Exception\\Custom Exception.csproj|c:\\users\\user\\desktop\\enum struct nullable\\custom exception\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13EE342-ABD9-4B49-BBC6-E239ADD3AC0D}|Custom Exception\\Custom Exception.csproj|solutionrelative:custom exception\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13EE342-ABD9-4B49-BBC6-E239ADD3AC0D}|Custom Exception\\Custom Exception.csproj|c:\\users\\user\\desktop\\enum struct nullable\\custom exception\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13EE342-ABD9-4B49-BBC6-E239ADD3AC0D}|Custom Exception\\Custom Exception.csproj|solutionrelative:custom exception\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13EE342-ABD9-4B49-BBC6-E239ADD3AC0D}|Custom Exception\\Custom Exception.csproj|c:\\users\\user\\desktop\\enum struct nullable\\custom exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13EE342-ABD9-4B49-BBC6-E239ADD3AC0D}|Custom Exception\\Custom Exception.csproj|solutionrelative:custom exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12192AC2-76B4-4BF0-98EC-DC6FDA234F3C}|Weapon\\Weapon.csproj|c:\\users\\user\\desktop\\enum struct nullable\\weapon\\models\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12192AC2-76B4-4BF0-98EC-DC6FDA234F3C}|Weapon\\Weapon.csproj|solutionrelative:weapon\\models\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Hotel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Custom Exception\\Models\\Hotel.cs",
-              "RelativeDocumentMoniker": "Custom Exception\\Models\\Hotel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Custom Exception\\Models\\Hotel.cs",
-              "RelativeToolTip": "Custom Exception\\Models\\Hotel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T18:15:12.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Custom Exception\\Models\\Room.cs",
-              "RelativeDocumentMoniker": "Custom Exception\\Models\\Room.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Custom Exception\\Models\\Room.cs",
-              "RelativeToolTip": "Custom Exception\\Models\\Room.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA9wCMAAAAJAAAAAAAAAA==",
+              "Title": "Weapons.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Weapon\\Models\\Weapons.cs",
+              "RelativeDocumentMoniker": "Weapon\\Models\\Weapons.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Weapon\\Models\\Weapons.cs",
+              "RelativeToolTip": "Weapon\\Models\\Weapons.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T17:57:11.265Z",
+              "WhenOpened": "2025-11-21T18:55:02.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomException.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Custom Exception\\CustomException.cs",
-              "RelativeDocumentMoniker": "Custom Exception\\CustomException.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Custom Exception\\CustomException.cs",
-              "RelativeToolTip": "Custom Exception\\CustomException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T17:53:26.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Custom Exception\\Program.cs",
-              "RelativeDocumentMoniker": "Custom Exception\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Custom Exception\\Program.cs",
-              "RelativeToolTip": "Custom Exception\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Weapon\\Program.cs",
+              "RelativeDocumentMoniker": "Weapon\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Enum Struct Nullable\\Weapon\\Program.cs",
+              "RelativeToolTip": "Weapon\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T14:30:25.579Z",
+              "WhenOpened": "2025-11-21T18:54:51.7Z",
               "EditorCaption": ""
             }
           ]
